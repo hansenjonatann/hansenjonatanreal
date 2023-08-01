@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "Orange Laundry Batam Website",
+    "description": "Orange Laundry Batam adalah sebuah website yang menyediakan jasa laundry yang berlokasi di kota Batam.  ",
+    "image": "project/orangelaundry.png",
+    "tech": ["Laravel", ",", "Bootstrap"],
+    "url": "https://example.com/proyek1"
+  },
+  {
+    "id": 2,
+    "title": "Hansen Jonatan Personal Link Tree",
+    "description": "Hansen Jonatan Personal Link Tree adalah sebuah website yang menyediakan sosial media dari Developer..",
+    "image": "project/hansenjonatan-personal-linktree.png",
+    "tech": ["HTML", ",", "CSS", ",", "Javascript"],
+    "url": "https://hansenjonatan-personallinktree.vercel.app/"
+  }
+]
