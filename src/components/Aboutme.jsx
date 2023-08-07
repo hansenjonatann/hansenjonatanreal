@@ -9,7 +9,7 @@ function AboutMe() {
 
       <div className="flex items-center py-4 flex-wrap w-screen">
         <div className="w-1/2">
-          <img src="image/hjcodin.png" alt="" className="mx-24 md:mb-16" />
+          <img src="image/hansenjonatan.png" alt="" className="mx-24 md:mb-16" />
         </div>
         <div className="md:w-1/2 relative md:text-left text-center md:mx-0 mx-8 md:text-lg text-xl">
           <p className="font-medium md:mr-28  ">
