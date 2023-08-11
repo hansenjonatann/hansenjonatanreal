@@ -1,10 +1,9 @@
-import React from "react";
 import Navbar from "../components/Navbar";
 import Hero from "../components/Hero";
 import AboutMe from "../components/Aboutme";
 import Portfolio from "../components/Portfolio";
-import Contact from "../components/Contact";
 import Footer from "../components/Footer";
+import Certificate from "../components/Certificate";
 
 const Home = () => {
   return (
@@ -13,7 +12,7 @@ const Home = () => {
       <Hero />
       <AboutMe />
       <Portfolio />
-      <Contact />
+      <Certificate />
       <Footer />
     </div>
   );

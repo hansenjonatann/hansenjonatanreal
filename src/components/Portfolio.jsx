@@ -1,4 +1,3 @@
-import React from "react";
 import portfolioData from "/src/portfolio.json";
 
 function Portfolio() {
@@ -25,7 +24,6 @@ function Portfolio() {
 
               <a
                 href={item.url}
-                target="_blank"
                 className="bg-accsent text-secondary font-bold px-6 py-2 md:px-4 md:py-2 md:rounded-lg hover:underline"
               >
                 Live Demo
