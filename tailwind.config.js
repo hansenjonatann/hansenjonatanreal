@@ -2,11 +2,18 @@
 export default {
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
+    container: {
+      center: true,
+      padding: "16px",
+    },
     extend: {
       colors: {
-        primary: "#1b1b1d",
-        secondary: "#02b5b5",
-        accsent: "#000000",
+        primary: "#818cf8",
+        secondary: "#64748b",
+        dark: "#0f172a",
+      },
+      screens: {
+        "2xl": "1320px",
       },
     },
   },

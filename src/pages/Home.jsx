@@ -1,18 +1,20 @@
 import Navbar from "../components/Navbar";
 import Hero from "../components/Hero";
-import AboutMe from "../components/Aboutme";
+import About from "../components/About";
 import Portfolio from "../components/Portfolio";
+import Skills from "../components/Skills";
 import Footer from "../components/Footer";
-import Certificate from "../components/Certificate";
+import Blog from "../components/Blog";
 
 const Home = () => {
   return (
     <div>
       <Navbar />
       <Hero />
-      <AboutMe />
+      <About />
       <Portfolio />
-      <Certificate />
+      <Skills />
+      <Blog />
       <Footer />
     </div>
   );

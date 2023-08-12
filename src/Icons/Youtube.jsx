@@ -1,5 +1,4 @@
 // icon:youtube | Feathericons https://feathericons.com/ | Cole Bemis
-import * as React from "react";
 
 function IconYoutube(props) {
   return (
