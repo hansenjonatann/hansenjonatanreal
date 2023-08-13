@@ -45,7 +45,7 @@ const Navbar = () => {
               className="hidden absolute py-5 lg:static lg:block lg:bg-transparent lg:shadow-none lg:rounded-none lg:max-w-full bg-white shadow-lg rounded-lg max-w-[250px] w-full right-4 top-full lg:cursor-pointer"
             >
               <ul className="block lg:flex lg:shadow-none lg:rounded-none">
-                <li className="group">
+              <li className="group">
                   <Link
                     to="home"
                     className="text-base text-dark py-2 mx-8  group-hover:text-primary"
@@ -67,6 +67,14 @@ const Navbar = () => {
                     className="text-base text-dark py-2 mx-8  group-hover:text-primary"
                   >
                     Portfolio
+                  </Link>
+                </li>
+                   <li className="group">
+                  <Link
+                    to="skills"
+                    className="text-base text-dark py-2 mx-8  group-hover:text-primary"
+                  >
+                    Skills
                   </Link>
                 </li>
                 <li className="group">
