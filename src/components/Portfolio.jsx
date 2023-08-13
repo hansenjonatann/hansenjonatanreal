@@ -34,7 +34,7 @@ const Portfolio = () => {
           </div>
         </div>
 
-        <div className="w-full px-4 flex flex-wrap justify-center  xl:w-10/12 xl:mx-auto">
+        <div className="w-full px-4 flex flex-wrap justify-center  xl:w-10/12 xl:mx-auto" data-aos="flip-left">
           {portfolioList.map((item) => (
             <div className="mb-12 p-4 md:w-1/2" key={item.id}>
               <div className="rounded-md shadow-md overflow-hidden">
