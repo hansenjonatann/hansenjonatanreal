@@ -3,7 +3,7 @@ const Hero = () => {
     <section id="home" className="pt-36">
       <div className="container">
         <div className="flex flex-wrap">
-          <div className="w-full self-center px-4 lg:w-1/2" data-aos="fade-up-right">
+          <div className="w-full self-center px-4 lg:w-1/2" >
             <h1 className="font-semibold text-base text-blue-400 md:text-xl ">
               Halo Semua👋, saya
               <span className="block font-bold text-dark text-4xl mt-1 lg:text-5xl">
@@ -27,7 +27,7 @@ const Hero = () => {
               Hubungi Saya
             </a>
           </div>
-          <div className="w-full self-end px-4 lg:w-1/2 " data-aos="fade-down-left">
+          <div className="w-full self-end px-4 lg:w-1/2 ">
             <div className="mt-10 relative lg:mt-9 lg:right-0">
               <img
                 src="image/profile.png"
