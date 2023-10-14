@@ -18,8 +18,7 @@ const About = () => {
                 Yuk, belajar web programming di HJ Codin
               </h2>
               <p className="font-medium text-base text-secondary max-w-xl lg:text-lg">
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                Provident ipsa quas eius, maiores dolore odit in!
+                HJ Codin adalah sebuah bisnis yang saya dirikan untuk membantu pengguna dalam belajar pemograman web
               </p>
             </div>
             <div className="w-full px-4 lg:w-1/2">
@@ -27,9 +26,7 @@ const About = () => {
                 Mari Berteman
               </h3>
               <p className="font-medium text-base text-secondary mb-6 lg:text-lg">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet
-                labore repellat placeat architecto iste commodi rerum hic
-                veritatis?
+                Saya adalah tipe orang yang terbuka , jika ada saran atau masukkan untuk saya dan website ini silahkan hubungi saya di sosial media di bawah ini!
               </p>
               <div className="flex items-center">
                 <a

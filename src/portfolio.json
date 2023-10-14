@@ -14,5 +14,13 @@
     "image": "project/hansenjonatan-personal-linktree.png",
     "tech": ["HTML", ",", "CSS", ",", "Javascript"],
     "url": "https://hansenjonatan-personallinktree.vercel.app/"
+  },
+  {
+    "id": 3,
+    "title": "Jersey Custom Bandung",
+    "description": "Jersey Custom Bandung adalah sebuah website yang menyediakan jasa desain untuk jersey",
+    "image": "project/jerseycustombandung.png",
+    "tech": "Bootstrap",
+    "url": "https://hansenjonatan-personallinktree.vercel.app/"
   }
 ]

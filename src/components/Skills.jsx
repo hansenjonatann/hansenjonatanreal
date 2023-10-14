@@ -9,9 +9,7 @@ const Skills = () => {
               Kemampuan Yang Saya Memiliki
             </h2>
             <p className="font-medium text-md text-secondary md:text-lg">
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aperiam
-              ut, enim sit vel temporibus ipsum eaque error iure! Eius,
-              veritatis!
+             Berikut adalah beberapa kemampuan yang saya miliki dalam web development
             </p>
           </div>
         </div>

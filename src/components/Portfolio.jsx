@@ -1,20 +1,6 @@
+import portfolioList from "../portfolio.json";
+
 const Portfolio = () => {
-  const portfolioList = [
-    {
-      id: 1,
-      title: "Orange Laundry Batam",
-      image: "project/orangelaundry.png",
-      desc: "Orange Laundry merupakan sebuah website yang memberikan pelayanan laundry yang berada di kota Batam",
-      teknologi: ["Bootstrap", ",", "Laravel"],
-    },
-    {
-      id: 2,
-      title: "Hansen Jonatan Personal Link Tree",
-      image: "project/hansenjonatan-personal-linktree.png",
-      desc: "Website yang berupa link tree yang dapat menyimpan berbagai situs web dan sosial media pengguna",
-      teknologi: ["HTML", ",", "CSS", ",", "Javascript"],
-    },
-  ];
   return (
     <section id="portfolio" className="pt-36 pb-16 bg-slate-100">
       <div className="container">
@@ -27,9 +13,7 @@ const Portfolio = () => {
               Project Terbaru
             </h2>
             <p className="font-medium text-md text-secondary md:text-lg">
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aperiam
-              ut, enim sit vel temporibus ipsum eaque error iure! Eius,
-              veritatis!
+              Berikut adalah beberapa project yang pernah saya kerjakan
             </p>
           </div>
         </div>
@@ -44,9 +28,9 @@ const Portfolio = () => {
                 {item.title}
               </h3>
               <p className="font-medium text-base text-secondary">
-                {item.desc}
+                {item.description}
               </p>
-              <h4>Teknologi: {item.teknologi}</h4>
+              <h4 className="mt-2">Teknologi: <span className="font-bold"> {item.tech}</span></h4>
             </div>
           ))}
         </div>
