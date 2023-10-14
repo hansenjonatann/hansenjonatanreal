@@ -20,7 +20,14 @@
     "title": "Jersey Custom Bandung",
     "description": "Jersey Custom Bandung adalah sebuah website yang menyediakan jasa desain untuk jersey",
     "image": "project/jerseycustombandung.png",
+    "tech": "Bootstrap"
+  },
+  {
+    "id": 4,
+    "title": "Cloakit",
+    "description": "Cloakit adalah sebuah website landing page yang dibuat menggunakan Bootstrap",
+    "image": "project/cloakit.png",
     "tech": "Bootstrap",
-    "url": "https://hansenjonatan-personallinktree.vercel.app/"
+    "url": "https://cloakit-app.vercel.app/"
   }
 ]

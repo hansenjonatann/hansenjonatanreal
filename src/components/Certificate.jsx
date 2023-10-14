@@ -1,24 +1,6 @@
+import certificateData from '../certificate.json'
+
 const Certificate = () => {
-  const certificateData = [
-    {
-      title: "Responsive Web Design",
-      image: "image/certificate/responsiveweb.png",
-      dateOfAchieve: "29 Juli 2022",
-      from: "Solo Learn",
-    },
-    {
-      title: "React + Redux",
-      image: "image/certificate/react+redux.png",
-      dateOfAchieve: "20 Agustus 2022",
-      from: "Solo Learn",
-    },
-    {
-      title: "Web Development Fundamentals",
-      image: "image/certificate/webdevelopmentfundamentals.png",
-      dateOfAchieve: "29 Juli 2022",
-      from: "Solo Learn",
-    },
-  ];
 
   return (
     <section
