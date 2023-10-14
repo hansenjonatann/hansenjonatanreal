@@ -5,9 +5,9 @@ const Certificate = () => {
   return (
     <section
       id="certificate"
-      className="pt-4 md:pt-6  pb-8 md:pb-6 bg-slate-100"
+      className="pt-36 pb-32 md:pt-6   md:pb-6 bg-slate-100"
     >
-      <h2 className="text-center text-4xl text-primary font-bold">
+      <h2 className="text-center text-4xl text-primary font-bold mt-16">
         Certificate
       </h2>
       <p className="font-medium text-md text-secondary text-center md:text-lg">
