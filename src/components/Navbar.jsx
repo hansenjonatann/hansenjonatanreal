@@ -79,6 +79,14 @@ const Navbar = () => {
                 </li>
                 <li className="group">
                   <Link
+                    to="certificate"
+                    className="text-base text-dark py-2 mx-8  group-hover:text-primary"
+                  >
+                    Certificate
+                  </Link>
+                </li>
+                <li className="group">
+                  <Link
                     to="blog"
                     className="text-base text-dark py-2 mx-8  group-hover:text-primary"
                   >
