@@ -17,7 +17,10 @@ const Hero = () => {
               Seorang mahaiswa yang tertarik di bidang teknologi , dan mempunyai
               impian menjadi seorang{" "}
               <span className="text-dark font-semibold">
-                Fullstack Web Developer
+                Fullstack Web Developer dan{" "}
+                <span className="text-primary font-semibold">
+                  Mobile Developer
+                </span>
               </span>
             </p>
             <a
