@@ -18,31 +18,31 @@ const Skills = () => {
         <div className="w-full px-4">
           <div className="flex flex-wrap items center justify-center">
             <a
-              href=""
+              href="https://www.bootstrap.com"
               className="max-w-[120px] mx-4 my-4 grayscale opacity-60 transition duration-500 hover:grayscale-0 hover:opacity-100 lg:mx-6 xl:mx-8"
             >
               <img src="skills/bootstrap.png" alt="" />
             </a>
             <a
-              href=""
+              href="https://www.tailwindcss.com"
               className="max-w-[120px] mx-4 my-4 grayscale opacity-60 transition duration-500 hover:grayscale-0 hover:opacity-100 lg:mx-6 xl:mx-8"
             >
               <img src="skills/tailwindcss.png" alt="" />
             </a>
             <a
-              href=""
+              href="https://www.laravel.com"
               className="max-w-[120px] mx-4 my-4 grayscale opacity-60 transition duration-500 hover:grayscale-0 hover:opacity-100 lg:mx-6 xl:mx-8"
             >
               <img src="skills/laravel.png" alt="" />
             </a>
             <a
-              href=""
+              href="https://www.react.dev"
               className="max-w-[120px] mx-4 my-4 grayscale opacity-60 transition duration-500 hover:grayscale-0 hover:opacity-100 lg:mx-6 xl:mx-8"
             >
               <img src="skills/react.png" alt="" />
             </a>
             <a
-              href=""
+              href="https://www.flutter.dev"
               className="max-w-[120px] mx-4 my-4 grayscale opacity-60 transition duration-500 hover:grayscale-0 hover:opacity-100 lg:mx-6 xl:mx-8"
             >
               <img src="skills/flutter.png" alt="" />
