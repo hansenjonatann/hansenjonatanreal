@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "Orange Laundry Batam Website",
-    "description": "Orange Laundry Batam adalah sebuah website yang menyediakan jasa laundry yang berlokasi di kota Batam.  ",
+    "description": "Orange Laundry Batam is a website that provides laundry services located in Batam city. ",
     "image": "project/orangelaundry.png",
     "tech": ["Laravel", ",", "Bootstrap"],
     "url": "https://example.com/proyek1"
@@ -10,7 +10,7 @@
   {
     "id": 2,
     "title": "Hansen Jonatan Personal Link Tree",
-    "description": "Hansen Jonatan Personal Link Tree adalah sebuah website yang menyediakan sosial media dari Developer..",
+    "description": "Hansen Jonatan Personal Link Tree is a website that provides social media from developers.",
     "image": "project/hansenjonatan-personal-linktree.png",
     "tech": ["HTML", ",", "CSS", ",", "Javascript"],
     "url": "https://hansenjonatan-personallinktree.vercel.app/"
@@ -18,14 +18,14 @@
   {
     "id": 3,
     "title": "Jersey Custom Bandung",
-    "description": "Jersey Custom Bandung adalah sebuah website yang menyediakan jasa desain untuk jersey",
+    "description": "Jersey Custom Bandung is a website that provides design services for jerseys",
     "image": "project/jerseycustombandung.png",
     "tech": "Bootstrap"
   },
   {
     "id": 4,
     "title": "Cloakit",
-    "description": "Cloakit adalah sebuah website landing page yang dibuat menggunakan Bootstrap",
+    "description": "Cloakit is a website landing page",
     "image": "project/cloakit.png",
     "tech": "Bootstrap",
     "url": "https://cloakit-app.vercel.app/"
