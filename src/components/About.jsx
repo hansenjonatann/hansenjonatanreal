@@ -15,10 +15,10 @@ const About = () => {
                 About me
               </h4>
               <h2 className="font-bold text-dark text-3xl mb-5 max-w-md lg:text-4xl">
-                I am a student at Batam International University major in Information System
+                I am an active student at Batam International University majoring in <span className="font-bold text-primary">Information System</span>
               </h2>
               <p className="font-medium text-base text-secondary max-w-xl lg:text-lg">
-                I have a Community with name is HJ Codin , and i am also developing the HJ Codin's web and mobile app. if you want to see my community app , you can follow me on Instagram with the username is hansenjonatann . In Instagram I give the information when I am release the HJ Codin's Web and Mobile Application.
+                I have a community that I founded called HJ Codin, and I will build a business called HJ Codin Group, currently I am developing web and mobile applications from HJ Codin. If you want to see my community app, you can follow me on Instagram with the username hansenjonatann. On Instagram I provide information when I will release the HJ Codin Web and Mobile Application.
               </p>
             </div>
             <div className="w-full px-4 lg:w-1/2">
@@ -26,7 +26,7 @@ const About = () => {
                 Get in touch
               </h3>
               <p className="font-medium text-base text-secondary mb-6 lg:text-lg">
-                Saya adalah tipe orang yang terbuka , jika ada saran atau masukkan untuk saya dan website ini silahkan hubungi saya di sosial media di bawah ini!
+                I am an open type of person, if you have suggestions or input for me and this website, please contact me on the social media below!
               </p>
               <div className="flex items-center">
                 <a
