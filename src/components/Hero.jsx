@@ -14,7 +14,7 @@ const Hero = () => {
               Student & <span className="text-dark">Content Creator</span>
             </h2>
             <p className="font-medium text-secondary mb-10 leading-relaxed">
-              A Student who has passion in technology and he has dream to become 
+              A student who has a passion for technology and dreams of becoming a {" "}
               <span className="text-dark font-semibold">
                  Fullstack  Developer and{" "}
                 <span className="text-primary font-semibold">
