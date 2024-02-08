@@ -30,7 +30,7 @@ const Portfolio = () => {
               <p className="font-medium text-base text-secondary">
                 {item.description}
               </p>
-              <h4 className="mt-2">Teknologi: <span className="font-bold"> {item.tech}</span></h4>
+              <h4 className="mt-2">Tech: <span className="font-bold"> {item.tech}</span></h4>
             </div>
           ))}
         </div>
