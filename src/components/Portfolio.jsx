@@ -10,10 +10,10 @@ const Portfolio = () => {
               Portolio
             </h4>
             <h2 className="font-bold text-dark text-3xl mb-4 sm:text-4xl lg:text-5xl">
-              Project Terbaru
+              Latest Projects
             </h2>
             <p className="font-medium text-md text-secondary md:text-lg">
-              Berikut adalah beberapa project yang pernah saya kerjakan
+              Below are some of the projects I have worked on
             </p>
           </div>
         </div>
