@@ -5,7 +5,7 @@ const Hero = () => {
         <div className="flex flex-wrap">
           <div className="w-full self-center px-4 lg:w-1/2">
             <h1 className="font-semibold text-base text-primary md:text-xl ">
-              Halo Semua👋, saya
+              Hi all👋, I am
               <span className="block font-bold text-dark text-4xl mt-1 lg:text-5xl">
                 Hansen Jonatan
               </span>
@@ -16,7 +16,7 @@ const Hero = () => {
             <p className="font-medium text-secondary mb-10 leading-relaxed">
               A Student who has passion in technology and he has dream to become 
               <span className="text-dark font-semibold">
-                Fullstack  Developer dan{" "}
+                 Fullstack  Developer and{" "}
                 <span className="text-primary font-semibold">
                   Content Creator
                 </span>
@@ -26,7 +26,7 @@ const Hero = () => {
               href=""
               className="text-base text-white font-semibold bg-primary py-3 px-8 rounded-full hover:shadow-lg hover:opacity-90 transition duration-300 ease-in-out"
             >
-              Hubungi Saya
+              Contact Me
             </a>
           </div>
           <div className="w-full self-end px-4 lg:w-1/2 ">
